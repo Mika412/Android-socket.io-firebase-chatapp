@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+
+    <string name="app_title">LEI</string>
+    <string name="register_title">REGISTER</string>
+    <string name="MainTitle">Trololo</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Register here!</string>
+    <string name="btn_link_to_login">Login here!</string>
+
+
+    <string name="search_people_hint">Search people</string>
+
+    <string name="FriendsHeader">Friends</string>
+    <string name="PendingHeader">Pending</string>
+
+    <string name="FriendsFragmentTitle">Friends</string>
+    <string name="ConversationsFragmentTitle">Conversations</string>
+
+
+    <string name="action_logout">Logout</string>
+
+    <string name="friendship_pending">Accept</string>
+    <string name="title_activity_main_tabbed">MainTabbedActivity</string>
+
+    <string name="no_conversations">There are no conversations.</string>
+    <string name="no_friends">Your friend list is empty. Search for users and add them.</string>
+    <string name="no_search_result">There are no users with this name.</string>
+    <string name="no_messages">Write something.</string>
+</resources>

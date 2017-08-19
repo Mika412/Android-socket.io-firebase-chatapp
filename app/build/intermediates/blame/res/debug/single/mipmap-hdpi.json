@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\Development\\Personal\\ChatApp\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Development\\ChatApp\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Development\\Personal\\ChatApp\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Development\\ChatApp\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

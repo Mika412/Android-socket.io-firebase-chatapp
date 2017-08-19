@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\1.0.0\28dde99672ed62a85e85a7df096c6bec698785b4\socket.io-client-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28dde99672ed62a85e85a7df096c6bec698785b4">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\socket.io-client-1.0.0_5410d8ab42bc78d9a2be79f8646db2deb12435a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_fcc135ee0bcc3c068a7e367c23520b78eba53ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\1779aa31507bc889ab1371cee390dbcac5c8247d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_a7953759e0830e456beef108ea74086f78408185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\eb89a3b1f5b7d71480fa2b671ebde47144d3ce98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_f42ac74b955130e4cf07a455bc1a864c15f3488f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\7c389747f002d394a0e61ef7e924cc83d379ba7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_9c30d4a00c8084a700517d595f6951856384fbbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\53b1c2f9350162f336ef5021576d4aa863f87416\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_d815bb9c7db1302a9b2a1a51fb8f7635f89bea13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\76863822c0bb5ae048f615b54d8563c6443f5f58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_cc91f6a1c6f867cb03346921793c503a290ee681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\7af2683a820a8acdfb16aaeb73a91dcc7b8d0bc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_894075010bfc11de0a7fb877669f3d84bdcd08dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\fb97132249795572763727bdcae46dd5f12199b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_5ce57e3dff319fe891767670e0680367eb6b4088.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Development\Personal\ChatApp\App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09ce5b5f9d9c06fc2eac3772a5993e828ffb5e2d">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_42debcf932829e9caa58730f57cb1b99ccd04852\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\f0162f02ed1ee9f8ebada769590b3c02a49c12ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_ef6220a63208b8c82fc6f2322fd70da0258187b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\dd70bde39750cd614e93cb8f698abda475c5584a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_25100e2f35cd4c482d83d125899b266e6da3c376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\524fbf49a654e592750411954bf1388d8bd77021\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_07109f1fcf0fcec804efca9b7d582bcddd48e600.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Development\Personal\ChatApp\App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_918dc97e604f9588fd02fcc2dfff8935dbe09f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\e956e5f675397902dcee9c42ca37bdbe636e70ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_70649bee098457908f32b7524d3027159fc257dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\5e6caa512a6dfd8c87ddb8ea6999ddaef9339887\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_4c5d7ae57a469f46b77dd3c3c9915ed9dd200a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\31c1e45e2b17e8b234a0f9c806001f599c0f8bbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_3341bd6540bef9dae3700cf495f0aafddcf996dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_ec6c656508bc31ceb64e3378d6744311d04003e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d3cf1f5ba1e0027588e2a6c5b5e29b4f4fcfec20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\76aef16e0b85b76a0fa3a7f5ef03384b82d1ba47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_e397f7621b1012d342255c6461009f82a7d8fbc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_5188cccd5ec962dc0cda34d85895d5f9502d77fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\ba160452fa08cf5327606225cd8029720073cfaa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_8d24dcbad4d29bafe8584615c306fb6d8f34467d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\6a29b18bc815eab4f361ef93e554c54a0f740c5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_37ab6debe3b6a642fc59ca3a9ca109360f857b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\1.0.0\45fc6115750f06a9cd5dd71632cb7fc052cd66de\engine.io-client-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45fc6115750f06a9cd5dd71632cb7fc052cd66de">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\engine.io-client-1.0.0_e126d0d182d0d8e4b1803967c310ef48c4bec667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_d77e4e332c86ceb08e2a1095aea5d3cba28e5b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\okio-1.13.0_92f158220087686967b08083add401a166d02f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\d96eb089f73a7e0c9f1e100c09763483906879b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_ac46cce89d6dc1bfad67da6aa2b1dd1f4f0bd29d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\adba7904f29884e21846e8d2ef33fd36d3e7e11b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_e8b297b5036ca998ae20fa81b3ca9d9ce781a767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\545d0b7373e1b3d0d51a17d6b8b62e62233c9fab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_c4f2d2fee177f38ba0ecb41e5fd8dde3084eee21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mykha\.android\build-cache\d22603661a5761d7a45a9e14b9a7bb6424ab2949\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Development\Personal\ChatApp\App\app\build\intermediates\pre-dexed\debug\classes_b9182011558e9d93e4f708486f250248b2acc647.jar" />
+    </item>
+
+</items>

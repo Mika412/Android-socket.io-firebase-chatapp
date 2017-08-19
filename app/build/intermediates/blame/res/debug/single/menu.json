@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_messages.xml",
+        "source": "D:\\Development\\Personal\\ChatApp\\App\\app\\src\\main\\res\\menu\\menu_messages.xml"
+    },
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Development\\Personal\\ChatApp\\App\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Development\\ChatApp\\App\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_messages.xml",
+        "source": "C:\\Development\\ChatApp\\App\\app\\src\\main\\res\\menu\\menu_messages.xml"
+    }
+]

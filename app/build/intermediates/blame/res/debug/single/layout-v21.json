@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_friends.xml",
+        "source": "D:\\Development\\Personal\\ChatApp\\App\\app\\src\\main\\res\\layout-v21\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\mykha\\.android\\build-cache\\53b1c2f9350162f336ef5021576d4aa863f87416\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\mykha\\.android\\build-cache\\53b1c2f9350162f336ef5021576d4aa863f87416\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\mykha\\.android\\build-cache\\53b1c2f9350162f336ef5021576d4aa863f87416\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mykha\\.android\\build-cache\\53b1c2f9350162f336ef5021576d4aa863f87416\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_friends.xml",
+        "source": "C:\\Development\\ChatApp\\App\\app\\src\\main\\res\\layout-v21\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mykha\\.android\\build-cache\\53b1c2f9350162f336ef5021576d4aa863f87416\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Development\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mykha\\.android\\build-cache\\53b1c2f9350162f336ef5021576d4aa863f87416\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mykha\\.android\\build-cache\\53b1c2f9350162f336ef5021576d4aa863f87416\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Development\\Personal\\ChatApp\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\mykha\\.android\\build-cache\\53b1c2f9350162f336ef5021576d4aa863f87416\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

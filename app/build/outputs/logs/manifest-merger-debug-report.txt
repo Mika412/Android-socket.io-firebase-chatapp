@@ -1,0 +1,338 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\mykha\.android\build-cache\fb97132249795572763727bdcae46dd5f12199b2\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:7:22-65
+application
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:9:5-68:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mykha\.android\build-cache\eb89a3b1f5b7d71480fa2b671ebde47144d3ce98\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\mykha\.android\build-cache\7c389747f002d394a0e61ef7e924cc83d379ba7e\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\mykha\.android\build-cache\dd70bde39750cd614e93cb8f698abda475c5584a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\mykha\.android\build-cache\7af2683a820a8acdfb16aaeb73a91dcc7b8d0bc4\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d96eb089f73a7e0c9f1e100c09763483906879b9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\53b1c2f9350162f336ef5021576d4aa863f87416\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\5e6caa512a6dfd8c87ddb8ea6999ddaef9339887\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\1779aa31507bc889ab1371cee390dbcac5c8247d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\31c1e45e2b17e8b234a0f9c806001f599c0f8bbc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\mykha\.android\build-cache\1acd6549ff9332a3d96a33d048076a2c7d0ad712\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\mykha\.android\build-cache\fb97132249795572763727bdcae46dd5f12199b2\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\mykha\.android\build-cache\76863822c0bb5ae048f615b54d8563c6443f5f58\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\mykha\.android\build-cache\76aef16e0b85b76a0fa3a7f5ef03384b82d1ba47\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\mykha\.android\build-cache\6a29b18bc815eab4f361ef93e554c54a0f740c5f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d22603661a5761d7a45a9e14b9a7bb6424ab2949\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\adba7904f29884e21846e8d2ef33fd36d3e7e11b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\f0162f02ed1ee9f8ebada769590b3c02a49c12ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\e956e5f675397902dcee9c42ca37bdbe636e70ea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\ba160452fa08cf5327606225cd8029720073cfaa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\524fbf49a654e592750411954bf1388d8bd77021\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:10:9-59
+activity#com.lei.mykha.chatapp.activities.activities.LoginActivity
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:17:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.lei.mykha.chatapp.activities.activities.RegisterActivity
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:27:13-57
+	android:theme
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:26:13-67
+activity#com.lei.mykha.chatapp.activities.activities.MessageActivity
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:29:9-34:57
+	android:screenOrientation
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:31:13-45
+	android:launchMode
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:32:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:30:13-66
+activity#com.lei.mykha.chatapp.activities.activities.MainTabbedActivity
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:36:9-39:58
+	android:label
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:38:13-63
+	android:theme
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:37:13-69
+provider#com.lei.mykha.chatapp.activities.data.DatabaseProvider
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:42:9-45:40
+	android:authorities
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:44:13-56
+	android:exported
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:43:13-61
+service#com.lei.mykha.chatapp.activities.services.SocketIOService
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:47:9-51:19
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:47:18-69
+intent-filter#com.lei.mykha.chatapp.activities.socketioservice.SocketIOService
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:48:13-50:29
+action#com.lei.mykha.chatapp.activities.socketioservice.SocketIOService
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:49:17-114
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:49:25-104
+service#com.lei.mykha.chatapp.activities.services.MyFirebaseMessagingService
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:52:9-56:19
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:52:18-80
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:53:13-55:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:54:17-78
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:54:25-75
+service#com.lei.mykha.chatapp.activities.services.MyFirebaseInstanceIDService
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:57:9-61:19
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:57:18-81
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:58:13-60:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:59:17-80
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:59:25-77
+receiver#com.lei.mykha.chatapp.activities.socketiochat.BootReceiver
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:63:9-67:20
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:63:19-71
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:64:13-66:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:65:17-79
+	android:name
+		ADDED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml:65:25-76
+uses-sdk
+INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mykha\.android\build-cache\eb89a3b1f5b7d71480fa2b671ebde47144d3ce98\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\mykha\.android\build-cache\7c389747f002d394a0e61ef7e924cc83d379ba7e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\mykha\.android\build-cache\dd70bde39750cd614e93cb8f698abda475c5584a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\mykha\.android\build-cache\7af2683a820a8acdfb16aaeb73a91dcc7b8d0bc4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d96eb089f73a7e0c9f1e100c09763483906879b9\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\53b1c2f9350162f336ef5021576d4aa863f87416\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\5e6caa512a6dfd8c87ddb8ea6999ddaef9339887\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\1779aa31507bc889ab1371cee390dbcac5c8247d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\545d0b7373e1b3d0d51a17d6b8b62e62233c9fab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\31c1e45e2b17e8b234a0f9c806001f599c0f8bbc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\mykha\.android\build-cache\1acd6549ff9332a3d96a33d048076a2c7d0ad712\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\mykha\.android\build-cache\fb97132249795572763727bdcae46dd5f12199b2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\mykha\.android\build-cache\76863822c0bb5ae048f615b54d8563c6443f5f58\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\mykha\.android\build-cache\76aef16e0b85b76a0fa3a7f5ef03384b82d1ba47\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\mykha\.android\build-cache\6a29b18bc815eab4f361ef93e554c54a0f740c5f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d22603661a5761d7a45a9e14b9a7bb6424ab2949\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\adba7904f29884e21846e8d2ef33fd36d3e7e11b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\f0162f02ed1ee9f8ebada769590b3c02a49c12ce\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\e956e5f675397902dcee9c42ca37bdbe636e70ea\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\ba160452fa08cf5327606225cd8029720073cfaa\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\524fbf49a654e592750411954bf1388d8bd77021\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d96eb089f73a7e0c9f1e100c09763483906879b9\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\ChatApp\App\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\mykha\.android\build-cache\dd70bde39750cd614e93cb8f698abda475c5584a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\mykha\.android\build-cache\dd70bde39750cd614e93cb8f698abda475c5584a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\mykha\.android\build-cache\dd70bde39750cd614e93cb8f698abda475c5584a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\mykha\.android\build-cache\dd70bde39750cd614e93cb8f698abda475c5584a\output\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\mykha\.android\build-cache\7af2683a820a8acdfb16aaeb73a91dcc7b8d0bc4\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\mykha\.android\build-cache\7af2683a820a8acdfb16aaeb73a91dcc7b8d0bc4\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\mykha\.android\build-cache\7af2683a820a8acdfb16aaeb73a91dcc7b8d0bc4\output\AndroidManifest.xml:23:18-87
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d96eb089f73a7e0c9f1e100c09763483906879b9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\53b1c2f9350162f336ef5021576d4aa863f87416\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\5e6caa512a6dfd8c87ddb8ea6999ddaef9339887\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\1779aa31507bc889ab1371cee390dbcac5c8247d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\545d0b7373e1b3d0d51a17d6b8b62e62233c9fab\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\31c1e45e2b17e8b234a0f9c806001f599c0f8bbc\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d22603661a5761d7a45a9e14b9a7bb6424ab2949\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\adba7904f29884e21846e8d2ef33fd36d3e7e11b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\f0162f02ed1ee9f8ebada769590b3c02a49c12ce\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\e956e5f675397902dcee9c42ca37bdbe636e70ea\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\ba160452fa08cf5327606225cd8029720073cfaa\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\524fbf49a654e592750411954bf1388d8bd77021\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d96eb089f73a7e0c9f1e100c09763483906879b9\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\mykha\.android\build-cache\d96eb089f73a7e0c9f1e100c09763483906879b9\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\mykha\.android\build-cache\fb97132249795572763727bdcae46dd5f12199b2\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\mykha\.android\build-cache\fb97132249795572763727bdcae46dd5f12199b2\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\mykha\.android\build-cache\fb97132249795572763727bdcae46dd5f12199b2\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\mykha\.android\build-cache\fb97132249795572763727bdcae46dd5f12199b2\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\mykha\.android\build-cache\79ade9625b580a88120a7bb6697546f64a945acb\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\mykha\.android\build-cache\b71632c3c691110449cc45e54c9b624f771b768e\output\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\mykha\.android\build-cache\76863822c0bb5ae048f615b54d8563c6443f5f58\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\mykha\.android\build-cache\76863822c0bb5ae048f615b54d8563c6443f5f58\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\mykha\.android\build-cache\76863822c0bb5ae048f615b54d8563c6443f5f58\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\mykha\.android\build-cache\76863822c0bb5ae048f615b54d8563c6443f5f58\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\mykha\.android\build-cache\76863822c0bb5ae048f615b54d8563c6443f5f58\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\mykha\.android\build-cache\6a29b18bc815eab4f361ef93e554c54a0f740c5f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\mykha\.android\build-cache\6a29b18bc815eab4f361ef93e554c54a0f740c5f\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\mykha\.android\build-cache\6a29b18bc815eab4f361ef93e554c54a0f740c5f\output\AndroidManifest.xml:20:20-65
